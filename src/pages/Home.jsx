@@ -208,15 +208,15 @@ const Portfolio = () => {
                                     I like figuring things out and building stuff.
                                 </p>
                                 <div className="flex space-x-6">
-                                    <a href="https://github.com/yourusername" className="inline-flex items-center text-gray-600 hover:text-gray-900 transition-colors">
+                                    <a href="https://github.com/abhay-cs" className="inline-flex items-center text-gray-600 hover:text-gray-900 transition-colors">
                                         <FolderCode className="w-5 h-5 mr-2" />
                                         GitHub
                                     </a>
-                                    <a href="https://linkedin.com/in/yourusername" className="inline-flex items-center text-gray-600 hover:text-gray-900 transition-colors">
+                                    <a href="https://www.linkedin.com/in/abhaycs/" className="inline-flex items-center text-gray-600 hover:text-gray-900 transition-colors">
                                         <Linkedin className="w-5 h-5 mr-2" />
                                         LinkedIn
                                     </a>
-                                    <a href="mailto:alex.morgan@email.com" className="inline-flex items-center text-gray-600 hover:text-gray-900 transition-colors">
+                                    <a href="mailto:abhay.msgs@gmail.com" className="inline-flex items-center text-gray-600 hover:text-gray-900 transition-colors">
                                         <Send className="w-5 h-5 mr-2" />
                                         Email
                                     </a>
@@ -384,19 +384,19 @@ const Portfolio = () => {
 
                             <div className="flex space-x-6">
                                 <a
-                                    href="https://github.com/yourusername"
+                                    href="https://github.com/abhay-cs"
                                     className="text-gray-600 hover:text-gray-900 transition-colors"
                                 >
                                     <FolderCode className="w-5 h-5" />
                                 </a>
                                 <a
-                                    href="https://linkedin.com/in/yourusername"
+                                    href="https://linkedin.com/in/abhaycs"
                                     className="text-gray-600 hover:text-gray-900 transition-colors"
                                 >
                                     <Linkedin className="w-5 h-5" />
                                 </a>
                                 <a
-                                    href="mailto:alex.morgan@email.com"
+                                    href="mailto:abhay.msgs@gmail.com"
                                     className="text-gray-600 hover:text-gray-900 transition-colors"
                                 >
                                     <Send className="w-5 h-5" />
